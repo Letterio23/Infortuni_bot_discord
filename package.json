@@ -1,0 +1,14 @@
+{
+  "name": "transfermarkt-injury-bot",
+  "version": "1.0.0",
+  "description": "A bot to scrape injury data from Transfermarkt.",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^20.7.4"
+  }
+}
