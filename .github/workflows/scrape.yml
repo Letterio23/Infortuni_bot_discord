@@ -1,0 +1,45 @@
+name: Injury Scraper Bot
+
+on:
+  schedule:
+    # Esegue lo script ogni ora, al minuto 0 di ogni ora
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # Aggiunge un pulsante "Run workflow" nella scheda Actions per avviare manualmente
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Scarica il codice del repository
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      # 2. Imposta l'ambiente Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # 3. Installa le dipendenze definite in package.json
+      - name: Install dependencies
+        run: npm install
+
+      # 4. Esegue lo script di scraping
+      - name: Run the scraper script
+        run: node scrape.js
+        env:
+          # Passa i secrets allo script come variabili d'ambiente
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          LOG_WEBHOOK_URL: ${{ secrets.LOG_WEBHOOK_URL }}
+
+      # 5. Salva i dati aggiornati nel repository
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add playerData.json
+          # Esegue il commit solo se ci sono state modifiche al file
+          git diff --quiet --staged || git commit -m "Update player injury data"
+          git push
