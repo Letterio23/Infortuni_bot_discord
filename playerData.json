@@ -103,12 +103,6 @@
       ""
     ],
     [
-      "Florian Kainz",
-      "Florian Kainz",
-      "Problemi alla caviglia",
-      ""
-    ],
-    [
       "Koki Machida",
       "Koki Machida",
       "Rottura del legamento crociato",
@@ -277,9 +271,9 @@
       ""
     ],
     [
-      "Fabian Bredlow",
-      "Fabian Bredlow",
-      "Problemi al ginocchio",
+      "Florian Kainz",
+      "Florian Kainz",
+      "Problemi alla caviglia",
       ""
     ],
     [
@@ -289,9 +283,15 @@
       ""
     ],
     [
-      "Ricky-Jade Jones",
-      "Ricky-Jade Jones",
-      "Infortunio alla spalla",
+      "Abdoulie Ceesay",
+      "Abdoulie Ceesay",
+      "Ferita da taglio",
+      ""
+    ],
+    [
+      "Fabian Bredlow",
+      "Fabian Bredlow",
+      "Problemi al ginocchio",
       ""
     ],
     [
@@ -337,15 +337,15 @@
       ""
     ],
     [
-      "Abdoulie Ceesay",
-      "Abdoulie Ceesay",
-      "Ferita da taglio",
-      ""
-    ],
-    [
       "Jamal Musiala",
       "Jamal Musiala",
       "Frattura del perone",
+      ""
+    ],
+    [
+      "Ricky-Jade Jones",
+      "Ricky-Jade Jones",
+      "Infortunio alla spalla",
       ""
     ],
     [
@@ -358,12 +358,6 @@
       "Karol Mets",
       "Karol Mets",
       "Ritardo di condizione",
-      ""
-    ],
-    [
-      "Tom Bischof",
-      "Tom Bischof",
-      "Appendicectomia",
       ""
     ],
     [
@@ -919,21 +913,15 @@
   ],
   "https://www.transfermarkt.it/serie-a/verletztespieler/wettbewerb/IT1": [
     [
-      "Francisco Conceição",
-      "Francisco Conceição",
-      "Problema muscolare",
+      "Gianluca Scamacca",
+      "Gianluca Scamacca",
+      "Infiammazione del ginocchio",
       ""
     ],
     [
       "Manuel Lazzari",
       "Manuel Lazzari",
       "Infortunio al polpaccio",
-      ""
-    ],
-    [
-      "Nicolò Rovella",
-      "Nicolò Rovella",
-      "Affaticamento muscolare",
       ""
     ],
     [
@@ -973,21 +961,21 @@
       ""
     ],
     [
-      "Pervis Estupiñán",
-      "Pervis Estupiñán",
-      "Sovraccarico",
-      ""
-    ],
-    [
       "Arkadiusz Milik",
       "Arkadiusz Milik",
       "Problema fisico",
       ""
     ],
     [
-      "Gianluca Scamacca",
-      "Gianluca Scamacca",
-      "Infiammazione del ginocchio",
+      "Pervis Estupiñán",
+      "Pervis Estupiñán",
+      "Sovraccarico",
+      ""
+    ],
+    [
+      "Francisco Conceição",
+      "Francisco Conceição",
+      "Problema muscolare",
       ""
     ],
     [
@@ -1287,15 +1275,9 @@
   ],
   "https://www.transfermarkt.it/major-league-soccer/verletztespieler/wettbewerb/MLS1": [
     [
-      "Igor Jesus",
-      "Igor Jesus",
-      "Rottura del legamento crociato",
-      ""
-    ],
-    [
-      "Nicksoen Gomis",
-      "Nicksoen Gomis",
-      "Operazione al tendine d'achille",
+      "Hassani Dotson",
+      "Hassani Dotson",
+      "Infortunio al menisco",
       ""
     ],
     [
@@ -1329,6 +1311,12 @@
       ""
     ],
     [
+      "Emmanuel Latte Lath",
+      "Emmanuel Latte Lath",
+      "Infortunio muscolare",
+      ""
+    ],
+    [
       "Josh Cohen",
       "Josh Cohen",
       "Infortunio all'inguine",
@@ -1353,15 +1341,15 @@
       ""
     ],
     [
-      "Jordan Morris",
-      "Jordan Morris",
-      "Infortunio alla spalla",
+      "Igor Jesus",
+      "Igor Jesus",
+      "Rottura del legamento crociato",
       ""
     ],
     [
-      "Hassani Dotson",
-      "Hassani Dotson",
-      "Infortunio al menisco",
+      "Nicksoen Gomis",
+      "Nicksoen Gomis",
+      "Operazione al tendine d'achille",
       ""
     ],
     [
@@ -1386,6 +1374,18 @@
       "Brandon Vazquez",
       "Brandon Vazquez",
       "Rottura del legamento crociato",
+      ""
+    ],
+    [
+      "Harry Toffolo",
+      "Harry Toffolo",
+      "Infortunio muscolare",
+      ""
+    ],
+    [
+      "Pep Biel",
+      "Pep Biel",
+      "Infortunio muscolare",
       ""
     ],
     [
@@ -1419,9 +1419,9 @@
       ""
     ],
     [
-      "Paul Arriola",
-      "Paul Arriola",
-      "Rottura del legamento crociato",
+      "Jordan Morris",
+      "Jordan Morris",
+      "Infortunio alla spalla",
       ""
     ],
     [
@@ -1529,6 +1529,12 @@
     [
       "João Paulo",
       "João Paulo",
+      "Rottura del legamento crociato",
+      ""
+    ],
+    [
+      "Paul Arriola",
+      "Paul Arriola",
       "Rottura del legamento crociato",
       ""
     ],
