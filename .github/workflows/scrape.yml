@@ -2,17 +2,18 @@ name: Injury Scraper Bot
 
 on:
   schedule:
-    # Esegue lo script ogni ora, al minuto 0 di ogni ora
     - cron: '0 * * * *'
   workflow_dispatch:
-    # Aggiunge un pulsante "Run workflow" nella scheda Actions per avviare manualmente
+
+# AGGIUNGI QUESTA SEZIONE DI PERMESSI
+permissions:
+  contents: write # Dà all'azione il permesso di scrivere nel repository
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Scarica il codice del repository
       - name: Check out repository
         uses: actions/checkout@v3
 
