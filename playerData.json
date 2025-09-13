@@ -907,9 +907,9 @@
   ],
   "https://www.transfermarkt.it/serie-a/verletztespieler/wettbewerb/IT1": [
     [
-      "Gianluca Scamacca",
-      "Gianluca Scamacca",
-      "Infiammazione del ginocchio",
+      "Mitchel Bakker",
+      "Mitchel Bakker",
+      "Rottura del legamento crociato",
       ""
     ],
     [
@@ -949,12 +949,6 @@
       ""
     ],
     [
-      "Tariq Lamptey",
-      "Tariq Lamptey",
-      "Infortunio al ginocchio",
-      ""
-    ],
-    [
       "Arkadiusz Milik",
       "Arkadiusz Milik",
       "Problema fisico",
@@ -967,15 +961,15 @@
       ""
     ],
     [
-      "Francisco Conceição",
-      "Francisco Conceição",
-      "Problema muscolare",
+      "Gianluca Scamacca",
+      "Gianluca Scamacca",
+      "Infiammazione del ginocchio",
       ""
     ],
     [
-      "Mitchel Bakker",
-      "Mitchel Bakker",
-      "Rottura del legamento crociato",
+      "Francisco Conceição",
+      "Francisco Conceição",
+      "Problema muscolare",
       ""
     ],
     [
@@ -1015,6 +1009,12 @@
       ""
     ],
     [
+      "Nikita Contini",
+      "Nikita Contini",
+      "Frattura della mano",
+      ""
+    ],
+    [
       "Laurs Skjellerup",
       "Laurs Skjellerup",
       "Problema fisico",
@@ -1027,15 +1027,39 @@
       ""
     ],
     [
+      "Samuel Gigot",
+      "Samuel Gigot",
+      "Infortunio alla caviglia",
+      ""
+    ],
+    [
       "Lorenzo Torriani",
       "Lorenzo Torriani",
       "Infortunio al dito",
       ""
     ],
     [
+      "Gift Orban",
+      "Gift Orban",
+      "Infortunio al piede",
+      ""
+    ],
+    [
+      "Yellu Santiago",
+      "Yellu Santiago",
+      "Affaticamento muscolare",
+      ""
+    ],
+    [
       "Edoardo Bove",
       "Edoardo Bove",
       "Problemi con il cuore",
+      ""
+    ],
+    [
+      "Daniel Mosquera",
+      "Daniel Mosquera",
+      "Appendicectomia",
       ""
     ],
     [
@@ -1051,39 +1075,15 @@
       ""
     ],
     [
-      "Matija Frigan",
-      "Matija Frigan",
-      "Rottura del legamento crociato",
-      ""
-    ],
-    [
       "Roberto Gagliardini",
       "Roberto Gagliardini",
       "Problema fisico",
       ""
     ],
     [
-      "Daniel Mosquera",
-      "Daniel Mosquera",
-      "Appendicectomia",
-      ""
-    ],
-    [
-      "Gift Orban",
-      "Gift Orban",
-      "Infortunio al piede",
-      ""
-    ],
-    [
-      "Samuel Gigot",
-      "Samuel Gigot",
-      "Infortunio alla caviglia",
-      ""
-    ],
-    [
-      "Yellu Santiago",
-      "Yellu Santiago",
-      "Affaticamento muscolare",
+      "Matija Frigan",
+      "Matija Frigan",
+      "Rottura del legamento crociato",
       ""
     ],
     [
@@ -1093,21 +1093,15 @@
       "15/09/2025"
     ],
     [
-      "Emil Holm",
-      "Emil Holm",
-      "Infortunio al bicipite femorale",
-      "15/09/2025"
-    ],
-    [
       "Francesco Coppola",
       "Francesco Coppola",
       "Operazione alla caviglia",
       "15/09/2025"
     ],
     [
-      "Fabio Miretti",
-      "Fabio Miretti",
-      "Infortunio alla coscia",
+      "Emil Holm",
+      "Emil Holm",
+      "Infortunio al bicipite femorale",
       "15/09/2025"
     ],
     [
@@ -1117,10 +1111,16 @@
       "15/09/2025"
     ],
     [
-      "Boris Radunović",
-      "Boris Radunović",
-      "Stiramento al polpaccio",
-      "16/09/2025"
+      "Fabio Miretti",
+      "Fabio Miretti",
+      "Infortunio alla coscia",
+      "15/09/2025"
+    ],
+    [
+      "Adam Masina",
+      "Adam Masina",
+      "Affaticamento muscolare",
+      "15/09/2025"
     ],
     [
       "Patric",
@@ -1129,15 +1129,21 @@
       "16/09/2025"
     ],
     [
-      "Edon Zhegrova",
-      "Edon Zhegrova",
-      "Ritardo di condizione",
-      "18/09/2025"
+      "Boris Radunović",
+      "Boris Radunović",
+      "Stiramento al polpaccio",
+      "16/09/2025"
     ],
     [
       "Kristian Thorstvedt",
       "Kristian Thorstvedt",
       "Problemi al tallone",
+      "18/09/2025"
+    ],
+    [
+      "Edon Zhegrova",
+      "Edon Zhegrova",
+      "Ritardo di condizione",
       "18/09/2025"
     ],
     [
@@ -1165,22 +1171,10 @@
       "23/09/2025"
     ],
     [
-      "Juan Cabal",
-      "Juan Cabal",
-      "Ritardo di condizione",
-      "29/09/2025"
-    ],
-    [
       "Zito Luvumbo",
       "Zito Luvumbo",
       "Infortunio agli adduttori",
       "29/09/2025"
-    ],
-    [
-      "Tommaso Pobega",
-      "Tommaso Pobega",
-      "Infortunio alla coscia",
-      "30/09/2025"
     ],
     [
       "Daniele Padelli",
@@ -1191,6 +1185,12 @@
     [
       "Ignace Van der Brempt",
       "Ignace Van der Brempt",
+      "Infortunio alla coscia",
+      "30/09/2025"
+    ],
+    [
+      "Tommaso Pobega",
+      "Tommaso Pobega",
       "Infortunio alla coscia",
       "30/09/2025"
     ],
