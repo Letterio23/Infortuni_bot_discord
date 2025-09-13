@@ -27,17 +27,17 @@ const sendLogMessage = (message) => {
 };
 
 // Funzione principale asincrona
+// in scrape.js
 async function main() {
     await sendLogMessage('Avvio del processo di scraping...');
 
-    // Leggiamo i dati salvati dalla precedente esecuzione
+    let isFirstRun = !fs.existsSync(DATA_FILE);
     let previousData = {};
-    try {
-        if (fs.existsSync(DATA_FILE)) {
-            previousData = JSON.parse(fs.readFileSync(DATA_FILE));
-        }
-    } catch (error) {
-        await sendLogMessage(`Errore lettura file dati: ${error.message}. Si parte da zero.`);
+    if (!isFirstRun) {
+        previousData = JSON.parse(fs.readFileSync(DATA_FILE));
+    } else {
+        await sendLogMessage('Prima esecuzione rilevata. I dati iniziali verranno salvati senza inviare notifiche.');
+        await axios.post(discordWebhookUrl, { content: '👋 **Bot avviato!** Sto eseguendo la prima sincronizzazione. Le notifiche di aggiornamento inizieranno dalla prossima ora.' });
     }
 
     let updatedData = {};
@@ -49,24 +49,26 @@ async function main() {
             const newData = await fetchPlayerData(url);
             updatedData[url] = newData;
 
-            const newPlayers = getNewPlayers(previousData[url] || [], newData);
-            const updatedPlayers = getUpdatedPlayers(previousData[url] || [], newData);
+            if (!isFirstRun) { // Controlla gli aggiornamenti solo se non è la prima esecuzione
+                const newPlayers = getNewPlayers(previousData[url] || [], newData);
+                const updatedPlayers = getUpdatedPlayers(previousData[url] || [], newData);
 
-            if (newPlayers.length > 0 || updatedPlayers.length > 0) {
-                hasUpdates = true;
-                const message = buildMessage(newPlayers, updatedPlayers, url);
-                await axios.post(discordWebhookUrl, { content: message });
-                await sendLogMessage(`Dati aggiornati e notificati per ${leagueName}.`);
-            } else {
-                await sendLogMessage(`Nessun cambiamento nei dati per ${leagueName}.`);
+                if (newPlayers.length > 0 || updatedPlayers.length > 0) {
+                    hasUpdates = true;
+                    const message = buildMessage(newPlayers, updatedPlayers, url);
+                    await axios.post(discordWebhookUrl, { content: message });
+                    await sendLogMessage(`Dati aggiornati e notificati per ${leagueName}.`);
+                } else {
+                    await sendLogMessage(`Nessun cambiamento nei dati per ${leagueName}.`);
+                }
             }
         } catch (error) {
             await sendLogMessage(`Errore elaborazione per ${leagueName}: ${error.message}`);
         }
     }
-
-    // Se ci sono stati aggiornamenti, salviamo i nuovi dati nel file JSON
-    if (hasUpdates) {
+    
+    // Salva i dati sia alla prima esecuzione che in caso di aggiornamenti
+    if (isFirstRun || hasUpdates) {
         fs.writeFileSync(DATA_FILE, JSON.stringify(updatedData, null, 2));
         await sendLogMessage('File playerData.json aggiornato.');
     }
