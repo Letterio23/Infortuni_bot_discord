@@ -80,16 +80,13 @@ async function fetchPlayerData(url) {
     const browser = await puppeteer.launch({ args: ['--no-sandbox', '--disable-setuid-sandbox'] }); // Argomenti necessari per GitHub Actions
     const page = await browser.newPage();
     
-    // Mascheriamoci da browser comune
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36');
     
-    // Navighiamo sulla pagina e attendiamo che sia completamente caricata
     await page.goto(url, { waitUntil: 'networkidle2' });
     
     const html = await page.content();
     await browser.close();
 
-    // Usiamo Cheerio per analizzare l'HTML (molto più facile delle regex)
     const $ = cheerio.load(html);
     const data = [];
     $('.items tbody tr').each((index, element) => {
@@ -106,14 +103,7 @@ async function fetchPlayerData(url) {
     return data;
 }
 
-// Funzioni helper (quasi identiche a prima)
-const getLeagueFromUrl = (url) => { /* ... (stessa funzione di prima) ... */ };
-const buildMessage = (newPlayers, updatedPlayers, url) => { /* ... */ };
-const getNewPlayers = (previousData, newData) => { /* ... */ };
-const getUpdatedPlayers = (previousData, newData) => { /* ... */ };
-
-// Copia qui le definizioni complete delle funzioni helper dal tuo script originale
-// per mantenere la formattazione dei messaggi. Te le riporto per comodità.
+// ===== INIZIO BLOCCO FUNZIONI HELPER (definite una sola volta) =====
 
 function getLeagueFromUrl(url) {
   if (url.includes('bundesliga')) return 'Bundesliga 🇩🇪';
@@ -150,6 +140,8 @@ function getUpdatedPlayers(previousData, newData) {
     return prevPlayer && (prevPlayer[1] !== newPlayer[1] || prevPlayer[2] !== newPlayer[2] || prevPlayer[3] !== newPlayer[3]);
   });
 }
+
+// ===== FINE BLOCCO FUNZIONI HELPER =====
 
 // Avvia la funzione principale
 main();
