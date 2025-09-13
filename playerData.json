@@ -97,9 +97,9 @@
       ""
     ],
     [
-      "Leonidas Stergiou",
-      "Leonidas Stergiou",
-      "Ritardo di condizione",
+      "Florian Kainz",
+      "Florian Kainz",
+      "Problemi alla caviglia",
       ""
     ],
     [
@@ -157,9 +157,9 @@
       ""
     ],
     [
-      "Deniz Undav",
-      "Deniz Undav",
-      "Rottura parziale del legamento collaterale mediale del ginocchio",
+      "Leonidas Stergiou",
+      "Leonidas Stergiou",
+      "Ritardo di condizione",
       ""
     ],
     [
@@ -259,12 +259,6 @@
       ""
     ],
     [
-      "Silas Ostrzinski",
-      "Silas Ostrzinski",
-      "Malato",
-      ""
-    ],
-    [
       "Julien Duranville",
       "Julien Duranville",
       "Infortunio all'articolazione acromion-clavicolare",
@@ -283,15 +277,21 @@
       ""
     ],
     [
-      "Florian Kainz",
-      "Florian Kainz",
-      "Problemi alla caviglia",
+      "Deniz Undav",
+      "Deniz Undav",
+      "Rottura parziale del legamento collaterale mediale del ginocchio",
       ""
     ],
     [
-      "Ricky-Jade Jones",
-      "Ricky-Jade Jones",
-      "Infortunio alla spalla",
+      "Jamal Musiala",
+      "Jamal Musiala",
+      "Frattura del perone",
+      ""
+    ],
+    [
+      "Abdoulie Ceesay",
+      "Abdoulie Ceesay",
+      "Ferita da taglio",
       ""
     ],
     [
@@ -343,15 +343,15 @@
       ""
     ],
     [
-      "Abdoulie Ceesay",
-      "Abdoulie Ceesay",
-      "Ferita da taglio",
+      "Tom Bischof",
+      "Tom Bischof",
+      "Appendicectomia",
       ""
     ],
     [
-      "Jamal Musiala",
-      "Jamal Musiala",
-      "Frattura del perone",
+      "Ricky-Jade Jones",
+      "Ricky-Jade Jones",
+      "Infortunio alla spalla",
       ""
     ],
     [
@@ -364,12 +364,6 @@
       "Karol Mets",
       "Karol Mets",
       "Ritardo di condizione",
-      ""
-    ],
-    [
-      "Tom Bischof",
-      "Tom Bischof",
-      "Appendicectomia",
       ""
     ],
     [
@@ -907,9 +901,15 @@
   ],
   "https://www.transfermarkt.it/serie-a/verletztespieler/wettbewerb/IT1": [
     [
-      "Gianluca Scamacca",
-      "Gianluca Scamacca",
-      "Infiammazione del ginocchio",
+      "Francisco Conceição",
+      "Francisco Conceição",
+      "Problema muscolare",
+      ""
+    ],
+    [
+      "Manuel Lazzari",
+      "Manuel Lazzari",
+      "Infortunio al polpaccio",
       ""
     ],
     [
@@ -955,21 +955,21 @@
       ""
     ],
     [
-      "Arkadiusz Milik",
-      "Arkadiusz Milik",
-      "Problema fisico",
-      ""
-    ],
-    [
       "Pervis Estupiñán",
       "Pervis Estupiñán",
       "Sovraccarico",
       ""
     ],
     [
-      "Francisco Conceição",
-      "Francisco Conceição",
-      "Problema muscolare",
+      "Arkadiusz Milik",
+      "Arkadiusz Milik",
+      "Problema fisico",
+      ""
+    ],
+    [
+      "Gianluca Scamacca",
+      "Gianluca Scamacca",
+      "Infiammazione del ginocchio",
       ""
     ],
     [
@@ -1015,51 +1015,21 @@
       ""
     ],
     [
-      "David Neres",
-      "David Neres",
-      "Problema muscolare",
-      ""
-    ],
-    [
       "Laurs Skjellerup",
       "Laurs Skjellerup",
       "Problema fisico",
       ""
     ],
     [
-      "Samuel Gigot",
-      "Samuel Gigot",
-      "Infortunio alla caviglia",
-      ""
-    ],
-    [
-      "Manuel Lazzari",
-      "Manuel Lazzari",
-      "Infortunio al polpaccio",
+      "Matías Vecino",
+      "Matías Vecino",
+      "Problemi alla coscia",
       ""
     ],
     [
       "Lorenzo Torriani",
       "Lorenzo Torriani",
       "Infortunio al dito",
-      ""
-    ],
-    [
-      "Gift Orban",
-      "Gift Orban",
-      "Infortunio al piede",
-      ""
-    ],
-    [
-      "Yellu Santiago",
-      "Yellu Santiago",
-      "Affaticamento muscolare",
-      ""
-    ],
-    [
-      "Daniel Mosquera",
-      "Daniel Mosquera",
-      "Appendicectomia",
       ""
     ],
     [
@@ -1072,12 +1042,6 @@
       "Wesley",
       "Wesley",
       "Sovraccarico",
-      ""
-    ],
-    [
-      "Roberto Gagliardini",
-      "Roberto Gagliardini",
-      "Problema fisico",
       ""
     ],
     [
@@ -1099,21 +1063,51 @@
       ""
     ],
     [
+      "Roberto Gagliardini",
+      "Roberto Gagliardini",
+      "Problema fisico",
+      ""
+    ],
+    [
+      "Daniel Mosquera",
+      "Daniel Mosquera",
+      "Appendicectomia",
+      ""
+    ],
+    [
+      "Gift Orban",
+      "Gift Orban",
+      "Infortunio al piede",
+      ""
+    ],
+    [
+      "Samuel Gigot",
+      "Samuel Gigot",
+      "Infortunio alla caviglia",
+      ""
+    ],
+    [
+      "Yellu Santiago",
+      "Yellu Santiago",
+      "Affaticamento muscolare",
+      ""
+    ],
+    [
       "Rafael Leão",
       "Rafael Leão",
       "Infortunio al polpaccio",
       "15/09/2025"
     ],
     [
-      "Francesco Coppola",
-      "Francesco Coppola",
-      "Operazione alla caviglia",
-      "15/09/2025"
-    ],
-    [
       "Emil Holm",
       "Emil Holm",
       "Infortunio al bicipite femorale",
+      "15/09/2025"
+    ],
+    [
+      "Francesco Coppola",
+      "Francesco Coppola",
+      "Operazione alla caviglia",
       "15/09/2025"
     ],
     [
@@ -1129,27 +1123,27 @@
       "15/09/2025"
     ],
     [
-      "Patric",
-      "Patric",
-      "Infortunio alla coscia",
-      "16/09/2025"
-    ],
-    [
       "Boris Radunović",
       "Boris Radunović",
       "Stiramento al polpaccio",
       "16/09/2025"
     ],
     [
-      "Kristian Thorstvedt",
-      "Kristian Thorstvedt",
-      "Problemi al tallone",
-      "18/09/2025"
+      "Patric",
+      "Patric",
+      "Infortunio alla coscia",
+      "16/09/2025"
     ],
     [
       "Edon Zhegrova",
       "Edon Zhegrova",
       "Ritardo di condizione",
+      "18/09/2025"
+    ],
+    [
+      "Kristian Thorstvedt",
+      "Kristian Thorstvedt",
+      "Problemi al tallone",
       "18/09/2025"
     ],
     [
@@ -1189,6 +1183,12 @@
       "29/09/2025"
     ],
     [
+      "Tommaso Pobega",
+      "Tommaso Pobega",
+      "Infortunio alla coscia",
+      "30/09/2025"
+    ],
+    [
       "Daniele Padelli",
       "Daniele Padelli",
       "Infortunio al ginocchio",
@@ -1197,12 +1197,6 @@
     [
       "Ignace Van der Brempt",
       "Ignace Van der Brempt",
-      "Infortunio alla coscia",
-      "30/09/2025"
-    ],
-    [
-      "Tommaso Pobega",
-      "Tommaso Pobega",
       "Infortunio alla coscia",
       "30/09/2025"
     ],
