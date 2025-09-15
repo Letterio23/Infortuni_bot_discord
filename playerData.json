@@ -1,15 +1,9 @@
 {
   "https://www.transfermarkt.it/bundesliga/verletztespieler/wettbewerb/L1": [
     [
-      "Denis Vavro",
-      "Denis Vavro",
-      "Infortunio agli adduttori",
-      ""
-    ],
-    [
-      "András Schäfer",
-      "András Schäfer",
-      "Problema muscolare",
+      "Nathan Ngoumou",
+      "Nathan Ngoumou",
+      "Lacerazione del tendine d'achille",
       ""
     ],
     [
@@ -55,15 +49,15 @@
       ""
     ],
     [
-      "Livan Burcu",
-      "Livan Burcu",
-      "Infortunio all'articolazione della caviglia",
+      "Denis Vavro",
+      "Denis Vavro",
+      "Infortunio agli adduttori",
       ""
     ],
     [
-      "Nathan Ngoumou",
-      "Nathan Ngoumou",
-      "Lacerazione del tendine d'achille",
+      "András Schäfer",
+      "András Schäfer",
+      "Problema muscolare",
       ""
     ],
     [
@@ -97,15 +91,21 @@
       ""
     ],
     [
+      "Deniz Undav",
+      "Deniz Undav",
+      "Rottura parziale del legamento collaterale mediale del ginocchio",
+      ""
+    ],
+    [
       "Raphaël Guerreiro",
       "Raphaël Guerreiro",
       "Infortunio al muscolo addominale",
       ""
     ],
     [
-      "Fabian Bredlow",
-      "Fabian Bredlow",
-      "Problemi al ginocchio",
+      "Salim Musah",
+      "Salim Musah",
+      "Problema fisico",
       ""
     ],
     [
@@ -163,9 +163,9 @@
       ""
     ],
     [
-      "Deniz Undav",
-      "Deniz Undav",
-      "Rottura parziale del legamento collaterale mediale del ginocchio",
+      "Fabian Bredlow",
+      "Fabian Bredlow",
+      "Problemi al ginocchio",
       ""
     ],
     [
@@ -211,9 +211,15 @@
       ""
     ],
     [
-      "Stefan Smarkalev",
-      "Stefan Smarkalev",
-      "Problema fisico",
+      "Livan Burcu",
+      "Livan Burcu",
+      "Infortunio all'articolazione della caviglia",
+      ""
+    ],
+    [
+      "Julián Malatini",
+      "Julián Malatini",
+      "Infortunio ai legamenti",
       ""
     ],
     [
@@ -307,21 +313,15 @@
       ""
     ],
     [
-      "Benedict Hollerbach",
-      "Benedict Hollerbach",
-      "Infortunio muscolare",
+      "Amadou Haidara",
+      "Amadou Haidara",
+      "Problema muscolare",
       ""
     ],
     [
-      "Salim Musah",
-      "Salim Musah",
+      "Stefan Smarkalev",
+      "Stefan Smarkalev",
       "Problema fisico",
-      ""
-    ],
-    [
-      "Julián Malatini",
-      "Julián Malatini",
-      "Infortunio ai legamenti",
       ""
     ],
     [
@@ -361,9 +361,15 @@
       ""
     ],
     [
-      "Amadou Haidara",
-      "Amadou Haidara",
-      "Problema muscolare",
+      "Jae-sung Lee",
+      "Jae-sung Lee",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Xaver Schlager",
+      "Xaver Schlager",
+      "Infortunio muscolare",
       ""
     ],
     [
@@ -385,10 +391,16 @@
       ""
     ],
     [
-      "Jae-sung Lee",
-      "Jae-sung Lee",
-      "Infortunio alla coscia",
+      "Benedict Hollerbach",
+      "Benedict Hollerbach",
+      "Infortunio muscolare",
       ""
+    ],
+    [
+      "Aarón Anselmino",
+      "Aarón Anselmino",
+      "Problema muscolare",
+      "17/09/2025"
     ],
     [
       "Wael Mohya",
@@ -415,15 +427,15 @@
       "06/10/2025"
     ],
     [
-      "Tim Kleindienst",
-      "Tim Kleindienst",
-      "Infortunio al menisco",
-      "31/10/2025"
-    ],
-    [
       "Hiroki Ito",
       "Hiroki Ito",
       "Frattura del metatarso",
+      "31/10/2025"
+    ],
+    [
+      "Tim Kleindienst",
+      "Tim Kleindienst",
+      "Infortunio al menisco",
       "31/10/2025"
     ],
     [
@@ -1583,21 +1595,15 @@
   ],
   "https://www.transfermarkt.it/ligue-1/verletztespieler/wettbewerb/FR1": [
     [
-      "Stanis Idumbo",
-      "Stanis Idumbo",
-      "Problema al muscolo grande psoas sinistro",
+      "Saïdou Sow",
+      "Saïdou Sow",
+      "Rottura parziale del legamento crociato",
       ""
     ],
     [
       "Pierre-Yves Hamel",
       "Pierre-Yves Hamel",
       "Problema agli adduttori",
-      ""
-    ],
-    [
-      "Himad Abdelli",
-      "Himad Abdelli",
-      "Infortunio alla schiena",
       ""
     ],
     [
@@ -1610,6 +1616,72 @@
       "Nathaniel Adjei",
       "Nathaniel Adjei",
       "Infortunio alla caviglia",
+      ""
+    ],
+    [
+      "Elysée Logbo",
+      "Elysée Logbo",
+      "Infortunio alla spalla",
+      ""
+    ],
+    [
+      "Himad Abdelli",
+      "Himad Abdelli",
+      "Infortunio alla schiena",
+      ""
+    ],
+    [
+      "Clément Akpa",
+      "Clément Akpa",
+      "Problema agli adduttori",
+      ""
+    ],
+    [
+      "Sinaly Diomandé",
+      "Sinaly Diomandé",
+      "Contusione muscolare",
+      ""
+    ],
+    [
+      "Francisco Sierralta",
+      "Francisco Sierralta",
+      "Contusione muscolare",
+      ""
+    ],
+    [
+      "Ilyas Azizi",
+      "Ilyas Azizi",
+      "Rottura parziale del legamento crociato",
+      ""
+    ],
+    [
+      "Niklas Schmidt",
+      "Niklas Schmidt",
+      "Rottura del legamento crociato",
+      ""
+    ],
+    [
+      "Jhoanner Chávez",
+      "Jhoanner Chávez",
+      "Caviglia slogata",
+      ""
+    ],
+    [
+      "Abakar Sylla",
+      "Abakar Sylla",
+      "Ferita",
+      ""
+    ],
+    [
+      "Ousmane Dembélé",
+      "Ousmane Dembélé",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Ernest Nuamah",
+      "Ernest Nuamah",
+      "Rottura del legamento crociato",
       ""
     ],
     [
@@ -1628,42 +1700,6 @@
       "Marc-Aurèle Caillard",
       "Marc-Aurèle Caillard",
       "Infortunio al gomito",
-      ""
-    ],
-    [
-      "Ernest Nuamah",
-      "Ernest Nuamah",
-      "Rottura del legamento crociato",
-      ""
-    ],
-    [
-      "Jhoanner Chávez",
-      "Jhoanner Chávez",
-      "Caviglia slogata",
-      ""
-    ],
-    [
-      "Elysée Logbo",
-      "Elysée Logbo",
-      "Infortunio alla spalla",
-      ""
-    ],
-    [
-      "Abakar Sylla",
-      "Abakar Sylla",
-      "Ferita",
-      ""
-    ],
-    [
-      "Saïdou Sow",
-      "Saïdou Sow",
-      "Rottura parziale del legamento crociato",
-      ""
-    ],
-    [
-      "Ousmane Dembélé",
-      "Ousmane Dembélé",
-      "Infortunio alla coscia",
       ""
     ],
     [
@@ -1697,33 +1733,9 @@
       ""
     ],
     [
-      "Ilyas Azizi",
-      "Ilyas Azizi",
-      "Rottura parziale del legamento crociato",
-      ""
-    ],
-    [
-      "Niklas Schmidt",
-      "Niklas Schmidt",
-      "Rottura del legamento crociato",
-      ""
-    ],
-    [
-      "Clément Akpa",
-      "Clément Akpa",
-      "Problema agli adduttori",
-      ""
-    ],
-    [
-      "Sinaly Diomandé",
-      "Sinaly Diomandé",
-      "Contusione muscolare",
-      ""
-    ],
-    [
-      "Francisco Sierralta",
-      "Francisco Sierralta",
-      "Contusione muscolare",
+      "Stanis Idumbo",
+      "Stanis Idumbo",
+      "Problema al muscolo grande psoas sinistro",
       ""
     ],
     [
