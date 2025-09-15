@@ -1,9 +1,15 @@
 {
   "https://www.transfermarkt.it/bundesliga/verletztespieler/wettbewerb/L1": [
     [
-      "Jesper Lindstrøm",
-      "Jesper Lindstrøm",
-      "Operazione all'inguine",
+      "Kevin Paredes",
+      "Kevin Paredes",
+      "Operazione al piede",
+      ""
+    ],
+    [
+      "Diogo Leite",
+      "Diogo Leite",
+      "Ritardo di condizione",
       ""
     ],
     [
@@ -49,15 +55,9 @@
       ""
     ],
     [
-      "Kevin Paredes",
-      "Kevin Paredes",
-      "Operazione al piede",
-      ""
-    ],
-    [
-      "Diogo Leite",
-      "Diogo Leite",
-      "Ritardo di condizione",
+      "Stanley Nsoki",
+      "Stanley Nsoki",
+      "Infortunio muscolare",
       ""
     ],
     [
@@ -103,9 +103,15 @@
       ""
     ],
     [
-      "Koki Machida",
-      "Koki Machida",
-      "Rottura del legamento crociato",
+      "Adam Hlozek",
+      "Adam Hlozek",
+      "Frattura dello scafoide",
+      ""
+    ],
+    [
+      "Tidiam Gomis",
+      "Tidiam Gomis",
+      "Ritardo di condizione",
       ""
     ],
     [
@@ -151,15 +157,15 @@
       ""
     ],
     [
-      "Adam Hlozek",
-      "Adam Hlozek",
-      "Frattura dello scafoide",
-      ""
-    ],
-    [
       "Deniz Undav",
       "Deniz Undav",
       "Rottura parziale del legamento collaterale mediale del ginocchio",
+      ""
+    ],
+    [
+      "Koki Machida",
+      "Koki Machida",
+      "Rottura del legamento crociato",
       ""
     ],
     [
@@ -196,12 +202,6 @@
       "András Schäfer",
       "András Schäfer",
       "Problema muscolare",
-      ""
-    ],
-    [
-      "Stanley Nsoki",
-      "Stanley Nsoki",
-      "Infortunio muscolare",
       ""
     ],
     [
@@ -295,9 +295,9 @@
       ""
     ],
     [
-      "Robin Zentner",
-      "Robin Zentner",
-      "Problemi con la schiena",
+      "Benedict Hollerbach",
+      "Benedict Hollerbach",
+      "Infortunio muscolare",
       ""
     ],
     [
@@ -319,6 +319,12 @@
       ""
     ],
     [
+      "Jordan Torunarigha",
+      "Jordan Torunarigha",
+      "Problemi al tendine d'Achille",
+      ""
+    ],
+    [
       "Maxim Dal",
       "Maxim Dal",
       "Rottura del legamento crociato",
@@ -328,12 +334,6 @@
       "Daniel Gleiber",
       "Daniel Gleiber",
       "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Benedict Hollerbach",
-      "Benedict Hollerbach",
-      "Infortunio muscolare",
       ""
     ],
     [
@@ -358,12 +358,6 @@
       "David Nemeth",
       "David Nemeth",
       "Problema muscolare",
-      ""
-    ],
-    [
-      "Karol Mets",
-      "Karol Mets",
-      "Ritardo di condizione",
       ""
     ],
     [
@@ -599,9 +593,9 @@
   ],
   "https://www.transfermarkt.it/premier-league/verletztespieler/wettbewerb/GB1": [
     [
-      "Dário Essugo",
-      "Dário Essugo",
-      "Operazione",
+      "Liam Delap",
+      "Liam Delap",
+      "Infortunio alla coscia",
       ""
     ],
     [
@@ -617,9 +611,9 @@
       ""
     ],
     [
-      "Niclas Füllkrug",
-      "Niclas Füllkrug",
-      "Problema muscolare",
+      "Christian Nørgaard",
+      "Christian Nørgaard",
+      "Ferita",
       ""
     ],
     [
@@ -629,6 +623,12 @@
       ""
     ],
     [
+      "Youri Tielemans",
+      "Youri Tielemans",
+      "Problema fisico",
+      ""
+    ],
+    [
       "Boubacar Kamara",
       "Boubacar Kamara",
       "Infortunio alla coscia",
@@ -647,15 +647,15 @@
       ""
     ],
     [
-      "Liam Delap",
-      "Liam Delap",
-      "Infortunio alla coscia",
+      "Niclas Füllkrug",
+      "Niclas Füllkrug",
+      "Problema muscolare",
       ""
     ],
     [
-      "Kai Havertz",
-      "Kai Havertz",
-      "Infortunio al ginocchio",
+      "Dário Essugo",
+      "Dário Essugo",
+      "Operazione",
       ""
     ],
     [
@@ -707,15 +707,9 @@
       ""
     ],
     [
-      "Kota Takai",
-      "Kota Takai",
-      "Infortunio al piede",
-      ""
-    ],
-    [
-      "Christian Nørgaard",
-      "Christian Nørgaard",
-      "Ferita",
+      "Kai Havertz",
+      "Kai Havertz",
+      "Infortunio al ginocchio",
       ""
     ],
     [
@@ -728,6 +722,12 @@
       "Bukayo Saka",
       "Bukayo Saka",
       "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Kota Takai",
+      "Kota Takai",
+      "Infortunio al piede",
       ""
     ],
     [
@@ -1179,9 +1179,9 @@
   ],
   "https://www.transfermarkt.it/major-league-soccer/verletztespieler/wettbewerb/MLS1": [
     [
-      "Lorenzo Dellavalle",
-      "Lorenzo Dellavalle",
-      "Rottura del legamento crociato",
+      "Aaron Long",
+      "Aaron Long",
+      "Lacerazione del tendine d'achille",
       ""
     ],
     [
@@ -1245,14 +1245,32 @@
       ""
     ],
     [
-      "Aaron Long",
-      "Aaron Long",
-      "Lacerazione del tendine d'achille",
+      "Brad Smith",
+      "Brad Smith",
+      "Infortunio muscolare",
+      ""
+    ],
+    [
+      "Yuya Kubo",
+      "Yuya Kubo",
+      "Infortunio alla gamba",
+      ""
+    ],
+    [
+      "Obinna Nwobodo",
+      "Obinna Nwobodo",
+      "Infortunio alla coscia",
       ""
     ],
     [
       "João Paulo",
       "João Paulo",
+      "Rottura del legamento crociato",
+      ""
+    ],
+    [
+      "Lorenzo Dellavalle",
+      "Lorenzo Dellavalle",
       "Rottura del legamento crociato",
       ""
     ],
@@ -1323,9 +1341,9 @@
       ""
     ],
     [
-      "Ali Fadal",
-      "Ali Fadal",
-      "Infortunio al ginocchio",
+      "Dominique Badji",
+      "Dominique Badji",
+      "Infortunio alla coscia",
       ""
     ],
     [
@@ -1389,9 +1407,27 @@
       ""
     ],
     [
+      "Ali Fadal",
+      "Ali Fadal",
+      "Infortunio al ginocchio",
+      ""
+    ],
+    [
+      "Randall Leal",
+      "Randall Leal",
+      "Infortunio alla gamba",
+      ""
+    ],
+    [
       "Rominigue Kouamé",
       "Rominigue Kouamé",
       "Infortunio alla gamba",
+      ""
+    ],
+    [
+      "Kristian Fletcher",
+      "Kristian Fletcher",
+      "Operazione al legamento crociato",
       ""
     ],
     [
