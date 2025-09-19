@@ -1,9 +1,15 @@
 {
   "https://www.transfermarkt.it/bundesliga/verletztespieler/wettbewerb/L1": [
     [
-      "Dimitrios Giannoulis",
-      "Dimitrios Giannoulis",
-      "Infortunio alla coscia",
+      "Kevin Paredes",
+      "Kevin Paredes",
+      "Operazione al piede",
+      ""
+    ],
+    [
+      "Jackson Irvine",
+      "Jackson Irvine",
+      "Problema muscolare",
       ""
     ],
     [
@@ -22,12 +28,6 @@
       "Livan Burcu",
       "Livan Burcu",
       "Infortunio all'articolazione della caviglia",
-      ""
-    ],
-    [
-      "András Schäfer",
-      "András Schäfer",
-      "Problema muscolare",
       ""
     ],
     [
@@ -55,21 +55,21 @@
       ""
     ],
     [
-      "Maximilian Bauer",
-      "Maximilian Bauer",
-      "Ferita",
+      "Dimitrios Giannoulis",
+      "Dimitrios Giannoulis",
+      "Infortunio alla coscia",
       ""
     ],
     [
-      "Jackson Irvine",
-      "Jackson Irvine",
+      "David Nemeth",
+      "David Nemeth",
       "Problema muscolare",
       ""
     ],
     [
-      "Kevin Paredes",
-      "Kevin Paredes",
-      "Operazione al piede",
+      "Jesper Lindstrøm",
+      "Jesper Lindstrøm",
+      "Infortunio agli adduttori",
       ""
     ],
     [
@@ -115,9 +115,9 @@
       ""
     ],
     [
-      "Mathias Honsak",
-      "Mathias Honsak",
-      "Problema muscolare",
+      "Marvin Pieringer",
+      "Marvin Pieringer",
+      "Infortunio all'articolazione della caviglia",
       ""
     ],
     [
@@ -169,15 +169,21 @@
       ""
     ],
     [
-      "Marvin Pieringer",
-      "Marvin Pieringer",
-      "Infortunio all'articolazione della caviglia",
+      "Thomas Keller",
+      "Thomas Keller",
+      "Infortunio al ginocchio",
       ""
     ],
     [
       "Silas",
       "Silas",
       "Infortunio alla caviglia",
+      ""
+    ],
+    [
+      "Mathias Honsak",
+      "Mathias Honsak",
+      "Problema muscolare",
       ""
     ],
     [
@@ -220,12 +226,6 @@
       "Ricky-Jade Jones",
       "Ricky-Jade Jones",
       "Infortunio alla spalla",
-      ""
-    ],
-    [
-      "David Nemeth",
-      "David Nemeth",
-      "Problema muscolare",
       ""
     ],
     [
@@ -483,14 +483,14 @@
       "26/04/2026"
     ],
     [
-      "Unai Egiluz",
-      "Unai Egiluz",
+      "Logan Costa",
+      "Logan Costa",
       "Rottura del legamento crociato",
       "01/03/2026"
     ],
     [
-      "Logan Costa",
-      "Logan Costa",
+      "Unai Egiluz",
+      "Unai Egiluz",
       "Rottura del legamento crociato",
       "01/03/2026"
     ],
@@ -507,15 +507,15 @@
       "12/12/2025"
     ],
     [
-      "Yago Santiago",
-      "Yago Santiago",
-      "Rottura del legamento crociato",
-      "01/12/2025"
-    ],
-    [
       "Marc-André ter Stegen",
       "Marc-André ter Stegen",
       "Infortunio alla schiena",
+      "01/12/2025"
+    ],
+    [
+      "Yago Santiago",
+      "Yago Santiago",
+      "Rottura del legamento crociato",
       "01/12/2025"
     ],
     [
@@ -543,9 +543,57 @@
       "01/10/2025"
     ],
     [
+      "Alan Matturro",
+      "Alan Matturro",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Gavi",
+      "Gavi",
+      "Infortunio al ginocchio",
+      ""
+    ],
+    [
+      "Lamine Yamal",
+      "Lamine Yamal",
+      "Infortunio all'inguine",
+      ""
+    ],
+    [
+      "José María Giménez",
+      "José María Giménez",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Julián Alvarez",
+      "Julián Alvarez",
+      "Infortunio muscolare",
+      ""
+    ],
+    [
+      "Thiago Almada",
+      "Thiago Almada",
+      "Infortunio muscolare",
+      ""
+    ],
+    [
+      "Javi Hernández",
+      "Javi Hernández",
+      "Frattura del metatarso",
+      ""
+    ],
+    [
       "Ferland Mendy",
       "Ferland Mendy",
       "Problemi alla coscia",
+      ""
+    ],
+    [
+      "Ramón Martínez",
+      "Ramón Martínez",
+      "Infortunio alla coscia",
       ""
     ],
     [
@@ -561,63 +609,15 @@
       ""
     ],
     [
-      "Alan Matturro",
-      "Alan Matturro",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
       "Gerard Moreno",
       "Gerard Moreno",
       "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Javi Hernández",
-      "Javi Hernández",
-      "Frattura del metatarso",
-      ""
-    ],
-    [
-      "José María Giménez",
-      "José María Giménez",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Ramón Martínez",
-      "Ramón Martínez",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Gavi",
-      "Gavi",
-      "Infortunio al ginocchio",
-      ""
-    ],
-    [
-      "Julián Alvarez",
-      "Julián Alvarez",
-      "Infortunio muscolare",
-      ""
-    ],
-    [
-      "Thiago Almada",
-      "Thiago Almada",
-      "Infortunio muscolare",
       ""
     ],
     [
       "Marc Roca",
       "Marc Roca",
       "Infortunio al piede",
-      ""
-    ],
-    [
-      "Lamine Yamal",
-      "Lamine Yamal",
-      "Infortunio all'inguine",
       ""
     ]
   ],
