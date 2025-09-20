@@ -109,6 +109,12 @@
       ""
     ],
     [
+      "Silas",
+      "Silas",
+      "Infortunio alla caviglia",
+      ""
+    ],
+    [
       "Raphaël Guerreiro",
       "Raphaël Guerreiro",
       "Infortunio al muscolo addominale",
@@ -175,9 +181,9 @@
       ""
     ],
     [
-      "Silas",
-      "Silas",
-      "Infortunio alla caviglia",
+      "Luca Jaquez",
+      "Luca Jaquez",
+      "Ritardo di condizione",
       ""
     ],
     [
@@ -283,9 +289,9 @@
       ""
     ],
     [
-      "Leonidas Stergiou",
-      "Leonidas Stergiou",
-      "Ritardo di condizione",
+      "Deniz Undav",
+      "Deniz Undav",
+      "Rottura parziale del legamento collaterale mediale del ginocchio",
       ""
     ],
     [
@@ -343,15 +349,9 @@
       ""
     ],
     [
-      "Luca Jaquez",
-      "Luca Jaquez",
+      "Leonidas Stergiou",
+      "Leonidas Stergiou",
       "Ritardo di condizione",
-      ""
-    ],
-    [
-      "Deniz Undav",
-      "Deniz Undav",
-      "Rottura parziale del legamento collaterale mediale del ginocchio",
       ""
     ],
     [
@@ -376,6 +376,12 @@
       "Julián Malatini",
       "Julián Malatini",
       "Infortunio ai legamenti",
+      ""
+    ],
+    [
+      "Samuel Mbangula",
+      "Samuel Mbangula",
+      "Infortunio alla coscia",
       ""
     ],
     [
@@ -617,14 +623,80 @@
   ],
   "https://www.transfermarkt.it/premier-league/verletztespieler/wettbewerb/GB1": [
     [
+      "Nathan Patterson",
+      "Nathan Patterson",
+      "Infortunio muscolare",
+      ""
+    ],
+    [
+      "Ki-Jana Hoever",
+      "Ki-Jana Hoever",
+      "Infortunio al ginocchio",
+      ""
+    ],
+    [
+      "Luis Guilherme",
+      "Luis Guilherme",
+      "Infortunio alla spalla",
+      ""
+    ],
+    [
+      "Niclas Füllkrug",
+      "Niclas Füllkrug",
+      "Problema muscolare",
+      ""
+    ],
+    [
+      "Kota Takai",
+      "Kota Takai",
+      "Infortunio al piede",
+      ""
+    ],
+    [
+      "Dane Scarlett",
+      "Dane Scarlett",
+      "Infortunio all'inguine",
+      ""
+    ],
+    [
+      "Dejan Kulusevski",
+      "Dejan Kulusevski",
+      "Infortunio al ginocchio",
+      ""
+    ],
+    [
       "Diogo Dalot",
       "Diogo Dalot",
       "Infortunio muscolare",
       ""
     ],
     [
-      "Ismaïla Sarr",
-      "Ismaïla Sarr",
+      "Kalvin Phillips",
+      "Kalvin Phillips",
+      "Problemi al tendine d'Achille",
+      ""
+    ],
+    [
+      "Stefan Bajcetic",
+      "Stefan Bajcetic",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Rhys Williams",
+      "Rhys Williams",
+      "Problema fisico",
+      ""
+    ],
+    [
+      "Jarrad Branthwaite",
+      "Jarrad Branthwaite",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Vitaliy Mykolenko",
+      "Vitaliy Mykolenko",
       "Problema fisico",
       ""
     ],
@@ -635,87 +707,9 @@
       ""
     ],
     [
-      "Vitaliy Mykolenko",
-      "Vitaliy Mykolenko",
+      "Ismaïla Sarr",
+      "Ismaïla Sarr",
       "Problema fisico",
-      ""
-    ],
-    [
-      "Nathan Patterson",
-      "Nathan Patterson",
-      "Infortunio muscolare",
-      ""
-    ],
-    [
-      "Rhys Williams",
-      "Rhys Williams",
-      "Problema fisico",
-      ""
-    ],
-    [
-      "Stefan Bajcetic",
-      "Stefan Bajcetic",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Kalvin Phillips",
-      "Kalvin Phillips",
-      "Problemi al tendine d'Achille",
-      ""
-    ],
-    [
-      "Mason Mount",
-      "Mason Mount",
-      "Ferita",
-      ""
-    ],
-    [
-      "Jarrad Branthwaite",
-      "Jarrad Branthwaite",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Matheus Cunha",
-      "Matheus Cunha",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Dejan Kulusevski",
-      "Dejan Kulusevski",
-      "Infortunio al ginocchio",
-      ""
-    ],
-    [
-      "Dane Scarlett",
-      "Dane Scarlett",
-      "Infortunio all'inguine",
-      ""
-    ],
-    [
-      "Kota Takai",
-      "Kota Takai",
-      "Infortunio al piede",
-      ""
-    ],
-    [
-      "Niclas Füllkrug",
-      "Niclas Füllkrug",
-      "Problema muscolare",
-      ""
-    ],
-    [
-      "Luis Guilherme",
-      "Luis Guilherme",
-      "Infortunio alla spalla",
-      ""
-    ],
-    [
-      "Ki-Jana Hoever",
-      "Ki-Jana Hoever",
-      "Infortunio al ginocchio",
       ""
     ],
     [
@@ -725,27 +719,33 @@
       ""
     ],
     [
+      "Martin Ødegaard",
+      "Martin Ødegaard",
+      "Infortunio alla spalla",
+      ""
+    ],
+    [
       "Paris Maghoma",
       "Paris Maghoma",
       "Problema fisico",
       ""
     ],
     [
-      "Michael Kayode",
-      "Michael Kayode",
+      "Youri Tielemans",
+      "Youri Tielemans",
       "Problema fisico",
       ""
     ],
     [
-      "Adam Webster",
-      "Adam Webster",
-      "Infortunio al legamento crociato",
+      "Boubacar Kamara",
+      "Boubacar Kamara",
+      "Infortunio alla coscia",
       ""
     ],
     [
-      "Zeki Amdouni",
-      "Zeki Amdouni",
-      "Rottura del legamento crociato",
+      "Michael Kayode",
+      "Michael Kayode",
+      "Problema fisico",
       ""
     ],
     [
@@ -761,39 +761,21 @@
       ""
     ],
     [
-      "Boubacar Kamara",
-      "Boubacar Kamara",
-      "Infortunio alla coscia",
+      "Zeki Amdouni",
+      "Zeki Amdouni",
+      "Rottura del legamento crociato",
       ""
     ],
     [
-      "Youri Tielemans",
-      "Youri Tielemans",
-      "Problema fisico",
+      "Adam Webster",
+      "Adam Webster",
+      "Infortunio al legamento crociato",
       ""
-    ],
-    [
-      "Martin Ødegaard",
-      "Martin Ødegaard",
-      "Infortunio alla spalla",
-      ""
-    ],
-    [
-      "Benoît Badiashile",
-      "Benoît Badiashile",
-      "Infortunio muscolare",
-      "26/09/2025"
     ],
     [
       "Curtis Jones",
       "Curtis Jones",
       "Infortunio muscolare",
-      "26/09/2025"
-    ],
-    [
-      "Bukayo Saka",
-      "Bukayo Saka",
-      "Infortunio alla coscia",
       "26/09/2025"
     ],
     [
@@ -803,6 +785,18 @@
       "26/09/2025"
     ],
     [
+      "Benoît Badiashile",
+      "Benoît Badiashile",
+      "Infortunio muscolare",
+      "26/09/2025"
+    ],
+    [
+      "Bukayo Saka",
+      "Bukayo Saka",
+      "Infortunio alla coscia",
+      "26/09/2025"
+    ],
+    [
       "Mateo Kovacic",
       "Mateo Kovacic",
       "Operazione al tendine d'achille",
@@ -827,14 +821,14 @@
       "04/10/2025"
     ],
     [
-      "Romaine Mundle",
-      "Romaine Mundle",
+      "Eddie Nketiah",
+      "Eddie Nketiah",
       "Infortunio alla coscia",
       "18/10/2025"
     ],
     [
-      "Eddie Nketiah",
-      "Eddie Nketiah",
+      "Romaine Mundle",
+      "Romaine Mundle",
       "Infortunio alla coscia",
       "18/10/2025"
     ],
