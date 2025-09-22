@@ -1,9 +1,27 @@
 {
   "https://www.transfermarkt.it/bundesliga/verletztespieler/wettbewerb/L1": [
     [
-      "Olivier Deman",
-      "Olivier Deman",
-      "Frattura malleolare",
+      "Dimitrios Giannoulis",
+      "Dimitrios Giannoulis",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "David Nemeth",
+      "David Nemeth",
+      "Problema muscolare",
+      ""
+    ],
+    [
+      "Jackson Irvine",
+      "Jackson Irvine",
+      "Problema muscolare",
+      ""
+    ],
+    [
+      "Karol Mets",
+      "Karol Mets",
+      "Ritardo di condizione",
       ""
     ],
     [
@@ -37,51 +55,15 @@
       ""
     ],
     [
-      "Salim Musah",
-      "Salim Musah",
-      "Infortunio alla coscia",
+      "Anton Kade",
+      "Anton Kade",
+      "Problemi alla caviglia",
       ""
     ],
     [
-      "Stefan Smarkalev",
-      "Stefan Smarkalev",
-      "Problema fisico",
-      ""
-    ],
-    [
-      "Julián Malatini",
-      "Julián Malatini",
-      "Infortunio ai legamenti",
-      ""
-    ],
-    [
-      "Samuel Mbangula",
-      "Samuel Mbangula",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Dimitrios Giannoulis",
-      "Dimitrios Giannoulis",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Maximilian Wöber",
-      "Maximilian Wöber",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Niklas Stark",
-      "Niklas Stark",
-      "Problemi all'anca",
-      ""
-    ],
-    [
-      "Mitchell Weiser",
-      "Mitchell Weiser",
-      "Rottura del legamento crociato",
+      "Ricky-Jade Jones",
+      "Ricky-Jade Jones",
+      "Infortunio alla spalla",
       ""
     ],
     [
@@ -109,57 +91,69 @@
       ""
     ],
     [
-      "Justin Diehl",
-      "Justin Diehl",
-      "Infortunio muscolare",
-      ""
-    ],
-    [
-      "Silas",
-      "Silas",
-      "Infortunio alla caviglia",
-      ""
-    ],
-    [
-      "Mathias Honsak",
-      "Mathias Honsak",
-      "Problema muscolare",
-      ""
-    ],
-    [
-      "Antonio Nusa",
-      "Antonio Nusa",
-      "Frattura dell'ulna",
-      ""
-    ],
-    [
-      "Max Finkgräfe",
-      "Max Finkgräfe",
-      "Infortunio al ginocchio",
-      ""
-    ],
-    [
-      "Amadou Haidara",
-      "Amadou Haidara",
-      "Problema muscolare",
-      ""
-    ],
-    [
-      "Xaver Schlager",
-      "Xaver Schlager",
-      "Infortunio muscolare",
-      ""
-    ],
-    [
-      "Lukas Klostermann",
-      "Lukas Klostermann",
-      "Problema muscolare",
-      ""
-    ],
-    [
-      "Benjamin Henrichs",
-      "Benjamin Henrichs",
+      "Nathan Ngoumou",
+      "Nathan Ngoumou",
       "Lacerazione del tendine d'achille",
+      ""
+    ],
+    [
+      "Robin Hack",
+      "Robin Hack",
+      "Lacerazione del menisco",
+      ""
+    ],
+    [
+      "Franck Honorat",
+      "Franck Honorat",
+      "Problema muscolare",
+      ""
+    ],
+    [
+      "Justin Diehl",
+      "Justin Diehl",
+      "Infortunio muscolare",
+      ""
+    ],
+    [
+      "Mathias Honsak",
+      "Mathias Honsak",
+      "Problema muscolare",
+      ""
+    ],
+    [
+      "Bakery Jatta",
+      "Bakery Jatta",
+      "Problema muscolare",
+      ""
+    ],
+    [
+      "Silvan Hefti",
+      "Silvan Hefti",
+      "Problemi all'anca",
+      ""
+    ],
+    [
+      "Jordan Torunarigha",
+      "Jordan Torunarigha",
+      "Problemi al tendine d'Achille",
+      ""
+    ],
+    [
+      "Yussuf Poulsen",
+      "Yussuf Poulsen",
+      "Ferita",
+      ""
+    ],
+    [
+      "Rav van den Berg",
+      "Rav van den Berg",
+      "Infortunio alla spalla",
+      ""
+    ],
+    [
+      "Luca Kilian",
+      "Luca Kilian",
+      "Rottura del legamento crociato",
       ""
     ],
     [
@@ -181,9 +175,9 @@
       ""
     ],
     [
-      "Luca Jaquez",
-      "Luca Jaquez",
-      "Ritardo di condizione",
+      "Silas",
+      "Silas",
+      "Infortunio alla caviglia",
       ""
     ],
     [
@@ -229,45 +223,75 @@
       ""
     ],
     [
-      "Anton Kade",
-      "Anton Kade",
-      "Problemi alla caviglia",
-      ""
-    ],
-    [
-      "Robin Hack",
-      "Robin Hack",
-      "Lacerazione del menisco",
-      ""
-    ],
-    [
-      "Jackson Irvine",
-      "Jackson Irvine",
-      "Problema muscolare",
-      ""
-    ],
-    [
-      "Karol Mets",
-      "Karol Mets",
+      "Abdoulie Ceesay",
+      "Abdoulie Ceesay",
       "Ritardo di condizione",
       ""
     ],
     [
-      "Luca Kilian",
-      "Luca Kilian",
+      "Fábio Silva",
+      "Fábio Silva",
+      "Infortunio agli adduttori",
+      ""
+    ],
+    [
+      "Lukas Klostermann",
+      "Lukas Klostermann",
+      "Problema muscolare",
+      ""
+    ],
+    [
+      "Benjamin Henrichs",
+      "Benjamin Henrichs",
+      "Lacerazione del tendine d'achille",
+      ""
+    ],
+    [
+      "Maxim Dal",
+      "Maxim Dal",
       "Rottura del legamento crociato",
       ""
     ],
     [
-      "Min-jae Kim",
-      "Min-jae Kim",
-      "Infortunio al polpaccio",
+      "Daniel Gleiber",
+      "Daniel Gleiber",
+      "Infortunio alla coscia",
       ""
     ],
     [
-      "Josip Stanisic",
-      "Josip Stanisic",
-      "Infortunio al legamento collaterale mediale",
+      "Benedict Hollerbach",
+      "Benedict Hollerbach",
+      "Infortunio muscolare",
+      ""
+    ],
+    [
+      "Jae-sung Lee",
+      "Jae-sung Lee",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Daniel-Kofi Kyereh",
+      "Daniel-Kofi Kyereh",
+      "Ritardo di condizione",
+      ""
+    ],
+    [
+      "Julien Duranville",
+      "Julien Duranville",
+      "Infortunio all'articolazione acromion-clavicolare",
+      ""
+    ],
+    [
+      "Luca Jaquez",
+      "Luca Jaquez",
+      "Ritardo di condizione",
+      ""
+    ],
+    [
+      "Emre Can",
+      "Emre Can",
+      "Problema agli adduttori",
       ""
     ],
     [
@@ -283,9 +307,15 @@
       ""
     ],
     [
-      "Nathan Ngoumou",
-      "Nathan Ngoumou",
+      "Martin Terrier",
+      "Martin Terrier",
       "Lacerazione del tendine d'achille",
+      ""
+    ],
+    [
+      "Nathan Tella",
+      "Nathan Tella",
+      "Ferita",
       ""
     ],
     [
@@ -295,51 +325,69 @@
       ""
     ],
     [
-      "Franck Honorat",
-      "Franck Honorat",
+      "Min-jae Kim",
+      "Min-jae Kim",
+      "Infortunio al polpaccio",
+      ""
+    ],
+    [
+      "Josip Stanisic",
+      "Josip Stanisic",
+      "Infortunio al legamento collaterale mediale",
+      ""
+    ],
+    [
+      "Amadou Haidara",
+      "Amadou Haidara",
       "Problema muscolare",
       ""
     ],
     [
-      "Julien Duranville",
-      "Julien Duranville",
-      "Infortunio all'articolazione acromion-clavicolare",
+      "Max Finkgräfe",
+      "Max Finkgräfe",
+      "Infortunio al ginocchio",
       ""
     ],
     [
-      "Fábio Silva",
-      "Fábio Silva",
-      "Infortunio agli adduttori",
+      "Antonio Nusa",
+      "Antonio Nusa",
+      "Frattura dell'ulna",
       ""
     ],
     [
-      "Emre Can",
-      "Emre Can",
-      "Problema agli adduttori",
+      "Mitchell Weiser",
+      "Mitchell Weiser",
+      "Rottura del legamento crociato",
       ""
     ],
     [
-      "Martin Terrier",
-      "Martin Terrier",
-      "Lacerazione del tendine d'achille",
+      "Xaver Schlager",
+      "Xaver Schlager",
+      "Infortunio muscolare",
       ""
     ],
     [
-      "Nathan Tella",
-      "Nathan Tella",
-      "Ferita",
+      "Niklas Stark",
+      "Niklas Stark",
+      "Problemi all'anca",
       ""
     ],
     [
-      "Rav van den Berg",
-      "Rav van den Berg",
-      "Infortunio alla spalla",
+      "Maximilian Wöber",
+      "Maximilian Wöber",
+      "Infortunio alla coscia",
       ""
     ],
     [
-      "Yussuf Poulsen",
-      "Yussuf Poulsen",
-      "Ferita",
+      "Olivier Deman",
+      "Olivier Deman",
+      "Frattura malleolare",
+      ""
+    ],
+    [
+      "Samuel Mbangula",
+      "Samuel Mbangula",
+      "Infortunio alla coscia",
       ""
     ],
     [
@@ -349,9 +397,21 @@
       ""
     ],
     [
-      "Deniz Undav",
-      "Deniz Undav",
-      "Rottura parziale del legamento collaterale mediale del ginocchio",
+      "Julián Malatini",
+      "Julián Malatini",
+      "Infortunio ai legamenti",
+      ""
+    ],
+    [
+      "Stefan Smarkalev",
+      "Stefan Smarkalev",
+      "Problema fisico",
+      ""
+    ],
+    [
+      "Salim Musah",
+      "Salim Musah",
+      "Infortunio alla coscia",
       ""
     ],
     [
@@ -361,69 +421,9 @@
       ""
     ],
     [
-      "Daniel-Kofi Kyereh",
-      "Daniel-Kofi Kyereh",
-      "Ritardo di condizione",
-      ""
-    ],
-    [
-      "Bakery Jatta",
-      "Bakery Jatta",
-      "Problema muscolare",
-      ""
-    ],
-    [
-      "Silvan Hefti",
-      "Silvan Hefti",
-      "Problemi all'anca",
-      ""
-    ],
-    [
-      "Jordan Torunarigha",
-      "Jordan Torunarigha",
-      "Problemi al tendine d'Achille",
-      ""
-    ],
-    [
-      "David Nemeth",
-      "David Nemeth",
-      "Problema muscolare",
-      ""
-    ],
-    [
-      "Maxim Dal",
-      "Maxim Dal",
-      "Rottura del legamento crociato",
-      ""
-    ],
-    [
-      "Daniel Gleiber",
-      "Daniel Gleiber",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Benedict Hollerbach",
-      "Benedict Hollerbach",
-      "Infortunio muscolare",
-      ""
-    ],
-    [
-      "Jae-sung Lee",
-      "Jae-sung Lee",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Abdoulie Ceesay",
-      "Abdoulie Ceesay",
-      "Ritardo di condizione",
-      ""
-    ],
-    [
-      "Ricky-Jade Jones",
-      "Ricky-Jade Jones",
-      "Infortunio alla spalla",
+      "Deniz Undav",
+      "Deniz Undav",
+      "Rottura parziale del legamento collaterale mediale del ginocchio",
       ""
     ],
     [
@@ -451,15 +451,15 @@
       "31/10/2025"
     ],
     [
-      "Anthony Caci",
-      "Anthony Caci",
-      "Infortunio alla coscia",
-      "31/12/2025"
-    ],
-    [
       "Exequiel Palacios",
       "Exequiel Palacios",
       "Infortunio agli adduttori",
+      "31/12/2025"
+    ],
+    [
+      "Anthony Caci",
+      "Anthony Caci",
+      "Infortunio alla coscia",
       "31/12/2025"
     ]
   ],
@@ -477,14 +477,14 @@
       "26/04/2026"
     ],
     [
-      "Unai Egiluz",
-      "Unai Egiluz",
+      "Logan Costa",
+      "Logan Costa",
       "Rottura del legamento crociato",
       "01/03/2026"
     ],
     [
-      "Logan Costa",
-      "Logan Costa",
+      "Unai Egiluz",
+      "Unai Egiluz",
       "Rottura del legamento crociato",
       "01/03/2026"
     ],
@@ -501,15 +501,15 @@
       "12/12/2025"
     ],
     [
-      "Yago Santiago",
-      "Yago Santiago",
-      "Rottura del legamento crociato",
-      "01/12/2025"
-    ],
-    [
       "Marc-André ter Stegen",
       "Marc-André ter Stegen",
       "Infortunio alla schiena",
+      "01/12/2025"
+    ],
+    [
+      "Yago Santiago",
+      "Yago Santiago",
+      "Rottura del legamento crociato",
       "01/12/2025"
     ],
     [
@@ -537,57 +537,21 @@
       "01/10/2025"
     ],
     [
-      "Álex Baena",
-      "Álex Baena",
-      "Appendicite",
-      ""
-    ],
-    [
-      "Viktor Tsygankov",
-      "Viktor Tsygankov",
-      "Infortunio alla gamba",
-      ""
-    ],
-    [
       "Juan Carlos",
       "Juan Carlos",
       "Infortunio al ginocchio",
       ""
     ],
     [
-      "Alan Matturro",
-      "Alan Matturro",
-      "Infortunio alla coscia",
+      "Fermín López",
+      "Fermín López",
+      "Infortunio muscolare",
       ""
     ],
     [
-      "Gerard Moreno",
-      "Gerard Moreno",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Ferland Mendy",
-      "Ferland Mendy",
-      "Problemi alla coscia",
-      ""
-    ],
-    [
-      "Ramón Martínez",
-      "Ramón Martínez",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Alfon González",
-      "Alfon González",
-      "Distorsione",
-      ""
-    ],
-    [
-      "José María Giménez",
-      "José María Giménez",
-      "Infortunio alla coscia",
+      "Gavi",
+      "Gavi",
+      "Infortunio al ginocchio",
       ""
     ],
     [
@@ -597,9 +561,15 @@
       ""
     ],
     [
-      "Gavi",
-      "Gavi",
-      "Infortunio al ginocchio",
+      "José María Giménez",
+      "José María Giménez",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Álex Baena",
+      "Álex Baena",
+      "Appendicite",
       ""
     ],
     [
@@ -609,9 +579,39 @@
       ""
     ],
     [
-      "Fermín López",
-      "Fermín López",
-      "Infortunio muscolare",
+      "Viktor Tsygankov",
+      "Viktor Tsygankov",
+      "Infortunio alla gamba",
+      ""
+    ],
+    [
+      "Ferland Mendy",
+      "Ferland Mendy",
+      "Problemi alla coscia",
+      ""
+    ],
+    [
+      "Alfon González",
+      "Alfon González",
+      "Distorsione",
+      ""
+    ],
+    [
+      "Alan Matturro",
+      "Alan Matturro",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Ramón Martínez",
+      "Ramón Martínez",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Gerard Moreno",
+      "Gerard Moreno",
+      "Infortunio alla coscia",
       ""
     ]
   ],
@@ -901,9 +901,21 @@
   ],
   "https://www.transfermarkt.it/serie-a/verletztespieler/wettbewerb/IT1": [
     [
-      "Manuel Lazzari",
-      "Manuel Lazzari",
-      "Infortunio al polpaccio",
+      "Daniel Mosquera",
+      "Daniel Mosquera",
+      "Appendicectomia",
+      ""
+    ],
+    [
+      "Arkadiusz Milik",
+      "Arkadiusz Milik",
+      "Problema fisico",
+      ""
+    ],
+    [
+      "Mitchel Bakker",
+      "Mitchel Bakker",
+      "Rottura del legamento crociato",
       ""
     ],
     [
@@ -919,63 +931,21 @@
       ""
     ],
     [
-      "Sandi Lovrić",
-      "Sandi Lovrić",
-      "Problema muscolare",
+      "Giorgio Scalvini",
+      "Giorgio Scalvini",
+      "Problema agli adduttori",
       ""
     ],
     [
-      "Jean Onana",
-      "Jean Onana",
-      "Problema fisico",
-      ""
-    ],
-    [
-      "Roberto Gagliardini",
-      "Roberto Gagliardini",
-      "Infortunio alla spalla",
-      ""
-    ],
-    [
-      "Abdou Harroui",
-      "Abdou Harroui",
+      "Balthazar Pierret",
+      "Balthazar Pierret",
       "Affaticamento muscolare",
       ""
     ],
     [
-      "Daniel Mosquera",
-      "Daniel Mosquera",
-      "Appendicectomia",
-      ""
-    ],
-    [
-      "Fallou Cham",
-      "Fallou Cham",
-      "Problema fisico",
-      ""
-    ],
-    [
-      "Hernani",
-      "Hernani",
-      "Infortunio alla caviglia",
-      ""
-    ],
-    [
-      "Lautaro Valenti",
-      "Lautaro Valenti",
-      "Problema fisico",
-      ""
-    ],
-    [
-      "Matija Frigan",
-      "Matija Frigan",
-      "Rottura del legamento crociato",
-      ""
-    ],
-    [
-      "Mike Maignan",
-      "Mike Maignan",
-      "Problema al polpaccio",
+      "Sandi Lovrić",
+      "Sandi Lovrić",
+      "Problema muscolare",
       ""
     ],
     [
@@ -991,6 +961,12 @@
       ""
     ],
     [
+      "Manuel Lazzari",
+      "Manuel Lazzari",
+      "Infortunio al polpaccio",
+      ""
+    ],
+    [
       "Samuel Gigot",
       "Samuel Gigot",
       "Operazione alla caviglia",
@@ -1003,21 +979,27 @@
       ""
     ],
     [
-      "Balthazar Pierret",
-      "Balthazar Pierret",
+      "Fallou Cham",
+      "Fallou Cham",
+      "Problema fisico",
+      ""
+    ],
+    [
+      "Jamie Vardy",
+      "Jamie Vardy",
       "Affaticamento muscolare",
       ""
     ],
     [
-      "Sebastian Walukiewicz",
-      "Sebastian Walukiewicz",
-      "Problema muscolare",
+      "Lautaro Valenti",
+      "Lautaro Valenti",
+      "Problema fisico",
       ""
     ],
     [
-      "Edoardo Bove",
-      "Edoardo Bove",
-      "Problemi con il cuore",
+      "Mike Maignan",
+      "Mike Maignan",
+      "Problema al polpaccio",
       ""
     ],
     [
@@ -1033,15 +1015,15 @@
       ""
     ],
     [
-      "Juan Cuadrado",
-      "Juan Cuadrado",
-      "Affaticamento muscolare",
+      "Sebastian Walukiewicz",
+      "Sebastian Walukiewicz",
+      "Problema muscolare",
       ""
     ],
     [
-      "Arkadiusz Milik",
-      "Arkadiusz Milik",
-      "Problema fisico",
+      "Edoardo Bove",
+      "Edoardo Bove",
+      "Problemi con il cuore",
       ""
     ],
     [
@@ -1051,33 +1033,45 @@
       ""
     ],
     [
-      "Giorgio Scalvini",
-      "Giorgio Scalvini",
-      "Problema agli adduttori",
+      "Hernani",
+      "Hernani",
+      "Infortunio alla caviglia",
       ""
     ],
     [
-      "Mitchel Bakker",
-      "Mitchel Bakker",
+      "Abdou Harroui",
+      "Abdou Harroui",
+      "Affaticamento muscolare",
+      ""
+    ],
+    [
+      "Juan Cuadrado",
+      "Juan Cuadrado",
+      "Affaticamento muscolare",
+      ""
+    ],
+    [
+      "Matija Frigan",
+      "Matija Frigan",
       "Rottura del legamento crociato",
       ""
     ],
     [
-      "Jamie Vardy",
-      "Jamie Vardy",
-      "Affaticamento muscolare",
+      "Jean Onana",
+      "Jean Onana",
+      "Problema fisico",
       ""
     ],
     [
-      "Adam Masina",
-      "Adam Masina",
-      "Affaticamento muscolare",
-      "23/09/2025"
+      "Roberto Gagliardini",
+      "Roberto Gagliardini",
+      "Infortunio alla spalla",
+      ""
     ],
     [
-      "Boris Radunović",
-      "Boris Radunović",
-      "Stiramento al polpaccio",
+      "Nicolò Casale",
+      "Nicolò Casale",
+      "Infortunio al bicipite femorale",
       "23/09/2025"
     ],
     [
@@ -1087,15 +1081,9 @@
       "23/09/2025"
     ],
     [
-      "Wesley",
-      "Wesley",
-      "Disturbi intestinali",
-      "23/09/2025"
-    ],
-    [
-      "Mario Hermoso",
-      "Mario Hermoso",
-      "Affaticamento muscolare",
+      "Boris Radunović",
+      "Boris Radunović",
+      "Stiramento al polpaccio",
       "23/09/2025"
     ],
     [
@@ -1105,9 +1093,21 @@
       "23/09/2025"
     ],
     [
-      "Nicolò Casale",
-      "Nicolò Casale",
-      "Infortunio al bicipite femorale",
+      "Mario Hermoso",
+      "Mario Hermoso",
+      "Affaticamento muscolare",
+      "23/09/2025"
+    ],
+    [
+      "Adam Masina",
+      "Adam Masina",
+      "Affaticamento muscolare",
+      "23/09/2025"
+    ],
+    [
+      "Wesley",
+      "Wesley",
+      "Disturbi intestinali",
       "23/09/2025"
     ],
     [
@@ -1129,12 +1129,6 @@
       "29/09/2025"
     ],
     [
-      "Tommaso Pobega",
-      "Tommaso Pobega",
-      "Infortunio alla coscia",
-      "30/09/2025"
-    ],
-    [
       "Fabio Miretti",
       "Fabio Miretti",
       "Infortunio alla coscia",
@@ -1150,6 +1144,12 @@
       "Daniele Padelli",
       "Daniele Padelli",
       "Infortunio al ginocchio",
+      "30/09/2025"
+    ],
+    [
+      "Tommaso Pobega",
+      "Tommaso Pobega",
+      "Infortunio alla coscia",
       "30/09/2025"
     ],
     [
@@ -1183,12 +1183,6 @@
       "13/10/2025"
     ],
     [
-      "Sead Kolasinac",
-      "Sead Kolasinac",
-      "Rottura parziale del legamento crociato",
-      "15/10/2025"
-    ],
-    [
       "Yeferson Paz",
       "Yeferson Paz",
       "Infortunio al polpaccio",
@@ -1198,6 +1192,12 @@
       "Assane Diao",
       "Assane Diao",
       "Infortunio al piede",
+      "15/10/2025"
+    ],
+    [
+      "Sead Kolasinac",
+      "Sead Kolasinac",
+      "Rottura parziale del legamento crociato",
       "15/10/2025"
     ],
     [
@@ -1793,9 +1793,9 @@
   ],
   "https://www.transfermarkt.it/ligue-1/verletztespieler/wettbewerb/FR1": [
     [
-      "Alexsandro",
-      "Alexsandro",
-      "Contusione muscolare",
+      "Marc-Aurèle Caillard",
+      "Marc-Aurèle Caillard",
+      "Infortunio al gomito",
       ""
     ],
     [
@@ -1841,15 +1841,21 @@
       ""
     ],
     [
-      "Marc-Aurèle Caillard",
-      "Marc-Aurèle Caillard",
-      "Infortunio al gomito",
+      "Thomas Meunier",
+      "Thomas Meunier",
+      "Infortunio pelvico",
       ""
     ],
     [
       "Saïdou Sow",
       "Saïdou Sow",
       "Rottura parziale del legamento crociato",
+      ""
+    ],
+    [
+      "Alexsandro",
+      "Alexsandro",
+      "Contusione muscolare",
       ""
     ],
     [
@@ -1901,57 +1907,9 @@
       ""
     ],
     [
-      "Bradley Barcola",
-      "Bradley Barcola",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Ousmane Dembélé",
-      "Ousmane Dembélé",
-      "Infortunio alla coscia",
-      ""
-    ],
-    [
-      "Moïse Bombito",
-      "Moïse Bombito",
-      "Infortunio allo stinco",
-      ""
-    ],
-    [
-      "Youssouf Ndayishimiye",
-      "Youssouf Ndayishimiye",
-      "Infortunio al legamento crociato",
-      ""
-    ],
-    [
-      "Mohamed Abdelmonem",
-      "Mohamed Abdelmonem",
-      "Rottura del legamento crociato",
-      ""
-    ],
-    [
-      "Hamed Traoré",
-      "Hamed Traoré",
-      "Contusione muscolare",
-      ""
-    ],
-    [
-      "Tanguy Ndombélé",
-      "Tanguy Ndombélé",
-      "Pubalgia",
-      ""
-    ],
-    [
-      "Ali Abdi",
-      "Ali Abdi",
-      "Infortunio pelvico",
-      ""
-    ],
-    [
-      "Niklas Schmidt",
-      "Niklas Schmidt",
-      "Rottura del legamento crociato",
+      "Sinaly Diomandé",
+      "Sinaly Diomandé",
+      "Infortunio all'inguine",
       ""
     ],
     [
@@ -1961,9 +1919,63 @@
       ""
     ],
     [
-      "Sinaly Diomandé",
-      "Sinaly Diomandé",
-      "Infortunio all'inguine",
+      "Niklas Schmidt",
+      "Niklas Schmidt",
+      "Rottura del legamento crociato",
+      ""
+    ],
+    [
+      "Rafik Messali",
+      "Rafik Messali",
+      "Infortunio alla caviglia",
+      ""
+    ],
+    [
+      "Ali Abdi",
+      "Ali Abdi",
+      "Infortunio pelvico",
+      ""
+    ],
+    [
+      "Tanguy Ndombélé",
+      "Tanguy Ndombélé",
+      "Pubalgia",
+      ""
+    ],
+    [
+      "Hamed Traoré",
+      "Hamed Traoré",
+      "Contusione muscolare",
+      ""
+    ],
+    [
+      "Mohamed Abdelmonem",
+      "Mohamed Abdelmonem",
+      "Rottura del legamento crociato",
+      ""
+    ],
+    [
+      "Youssouf Ndayishimiye",
+      "Youssouf Ndayishimiye",
+      "Infortunio al legamento crociato",
+      ""
+    ],
+    [
+      "Moïse Bombito",
+      "Moïse Bombito",
+      "Infortunio allo stinco",
+      ""
+    ],
+    [
+      "Ousmane Dembélé",
+      "Ousmane Dembélé",
+      "Infortunio alla coscia",
+      ""
+    ],
+    [
+      "Bradley Barcola",
+      "Bradley Barcola",
+      "Infortunio alla coscia",
       ""
     ],
     [
