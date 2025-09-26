@@ -806,13 +806,13 @@
       "Wesley Fofana",
       "Wesley Fofana",
       "Commozione cerebrale",
-      "05/10/2025"
+      "12/10/2025"
     ],
     [
       "Cole Palmer",
       "Cole Palmer",
       "Problema all'inguine",
-      "11/10/2025"
+      "12/10/2025"
     ],
     [
       "Romaine Mundle",
@@ -1045,6 +1045,12 @@
       ""
     ],
     [
+      "Ange-Yoan Bonny",
+      "Ange-Yoan Bonny",
+      "Problemi alla caviglia",
+      ""
+    ],
+    [
       "Arkadiusz Milik",
       "Arkadiusz Milik",
       "Problema fisico",
@@ -1063,22 +1069,34 @@
       ""
     ],
     [
-      "Ange-Yoan Bonny",
-      "Ange-Yoan Bonny",
-      "Problemi alla caviglia",
-      ""
-    ],
-    [
-      "Maxwel Cornet",
-      "Maxwel Cornet",
-      "Infortunio al polpaccio",
-      "27/09/2025"
-    ],
-    [
       "Nicolò Casale",
       "Nicolò Casale",
       "Infortunio al bicipite femorale",
       "29/09/2025"
+    ],
+    [
+      "Fabio Miretti",
+      "Fabio Miretti",
+      "Infortunio alla coscia",
+      "30/09/2025"
+    ],
+    [
+      "Filip Marchwinski",
+      "Filip Marchwinski",
+      "Rottura del legamento crociato",
+      "30/09/2025"
+    ],
+    [
+      "Riccardo Sottil",
+      "Riccardo Sottil",
+      "Affaticamento muscolare",
+      "30/09/2025"
+    ],
+    [
+      "Isak Hien",
+      "Isak Hien",
+      "Problema agli adduttori",
+      "30/09/2025"
     ],
     [
       "Éderson",
@@ -1099,44 +1117,20 @@
       "30/09/2025"
     ],
     [
-      "Adam Masina",
-      "Adam Masina",
-      "Affaticamento muscolare",
-      "30/09/2025"
-    ],
-    [
-      "Fabio Miretti",
-      "Fabio Miretti",
-      "Infortunio alla coscia",
-      "30/09/2025"
-    ],
-    [
-      "Tommaso Pobega",
-      "Tommaso Pobega",
-      "Infortunio alla coscia",
-      "30/09/2025"
-    ],
-    [
-      "Filip Marchwinski",
-      "Filip Marchwinski",
-      "Rottura del legamento crociato",
-      "30/09/2025"
-    ],
-    [
-      "Isak Hien",
-      "Isak Hien",
-      "Problema agli adduttori",
-      "30/09/2025"
-    ],
-    [
       "Vakoun Bayo",
       "Vakoun Bayo",
       "Problemi alla coscia",
       "30/09/2025"
     ],
     [
-      "Riccardo Sottil",
-      "Riccardo Sottil",
+      "Tommaso Pobega",
+      "Tommaso Pobega",
+      "Infortunio alla coscia",
+      "30/09/2025"
+    ],
+    [
+      "Adam Masina",
+      "Adam Masina",
       "Affaticamento muscolare",
       "30/09/2025"
     ],
@@ -1144,6 +1138,12 @@
       "Jean Onana",
       "Jean Onana",
       "Problema fisico",
+      "01/10/2025"
+    ],
+    [
+      "Alberto Dossena",
+      "Alberto Dossena",
+      "Rottura del legamento crociato",
       "01/10/2025"
     ],
     [
@@ -1156,12 +1156,6 @@
       "Gianluca Scamacca",
       "Gianluca Scamacca",
       "Infiammazione del ginocchio",
-      "01/10/2025"
-    ],
-    [
-      "Alberto Dossena",
-      "Alberto Dossena",
-      "Rottura del legamento crociato",
       "01/10/2025"
     ],
     [
@@ -1183,6 +1177,12 @@
       "10/10/2025"
     ],
     [
+      "Nicolás Valentini",
+      "Nicolás Valentini",
+      "Infortunio al bicipite femorale",
+      "13/10/2025"
+    ],
+    [
       "Ibrahim Sulemana",
       "Ibrahim Sulemana",
       "Rottura parziale del legamento collaterale mediale del ginocchio",
@@ -1195,15 +1195,21 @@
       "13/10/2025"
     ],
     [
-      "Nicolás Valentini",
-      "Nicolás Valentini",
-      "Infortunio al bicipite femorale",
-      "13/10/2025"
+      "Paulo Dybala",
+      "Paulo Dybala",
+      "Infortunio alla coscia",
+      "15/10/2025"
     ],
     [
       "Sead Kolasinac",
       "Sead Kolasinac",
       "Rottura parziale del legamento crociato",
+      "15/10/2025"
+    ],
+    [
+      "Fisayo Dele-Bashiru",
+      "Fisayo Dele-Bashiru",
+      "Infortunio alla coscia",
       "15/10/2025"
     ],
     [
@@ -1213,21 +1219,9 @@
       "15/10/2025"
     ],
     [
-      "Paulo Dybala",
-      "Paulo Dybala",
-      "Infortunio alla coscia",
-      "15/10/2025"
-    ],
-    [
       "Leon Bailey",
       "Leon Bailey",
       "Infortunio muscolare",
-      "15/10/2025"
-    ],
-    [
-      "Fisayo Dele-Bashiru",
-      "Fisayo Dele-Bashiru",
-      "Infortunio alla coscia",
       "15/10/2025"
     ],
     [
@@ -1249,15 +1243,15 @@
       "28/10/2025"
     ],
     [
-      "Assane Diao",
-      "Assane Diao",
-      "Infortunio al piede",
-      "31/10/2025"
-    ],
-    [
       "Ardon Jashari",
       "Ardon Jashari",
       "Frattura del perone",
+      "31/10/2025"
+    ],
+    [
+      "Assane Diao",
+      "Assane Diao",
+      "Infortunio al piede",
       "31/10/2025"
     ],
     [
